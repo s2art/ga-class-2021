@@ -4,7 +4,7 @@ body {
   line-height: 1.5;
   margin: 30px;
   padding: 50px;
-  background: #F6F6F6;
+  background: #FFF;
 }
 
 a {
@@ -22,18 +22,20 @@ strong {
 }
 
 h1 {
+font-family: 'Roboto', sans-serif;
+font-variant: small-caps;
   font-weight: bold;
-  color: #030609;
+  color: #CC0066;
   margin-top: 0;
 }
 
 h2 {
-  color: #030609;
+  color: #ff3399;
 }
 
 h3 {
   font-size: 18px;
-  color: #030609;
+  color: #ff0066;
   letter-spacing: 2px;
   margin-top: 42px;
 }
@@ -41,14 +43,14 @@ h3 {
 h4 {
   font-weight: normal;
   margin-bottom: 0;
-  color: #05080C;
+  color: #000;
 }
 
 p {
-  font-family: Georgia, serif;
+  font-family: 'Roboto', sans-serif;
   margin-top: 0;
   margin-bottom: 27px;
-  color: #05080C;
+  color: #000;
 }
 
 ul {
